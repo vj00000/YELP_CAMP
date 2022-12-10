@@ -8,13 +8,18 @@ and run -   npm i ,
 then    -   node app.js
 
 <h3>Authentication</h3>
+<ul>
 <li>Users can sign up or login using username and password.</li>
 <li>User can not submit campgrounds if they are not logged in.</li>
-
+</ul>
 <h3>Authorization</h3>
+<ul>
 <li>User can only modify campgrounds created by them.</li>
+ </ul>
 <h3>User Profile</h3>
+<ul>
 <li>Every registered user has profile where all his submitted campgrounds are shown.</li>
+  </ul>
 <h3>Basic Functionality</h3>
 <ul>
   <li>Add Name, Image and Description to the campground.</li>
