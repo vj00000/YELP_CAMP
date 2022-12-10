@@ -6,16 +6,16 @@ Download Code
 and run -   npm i ,
 then    -   node app.js
 
-Authentication
+<h3>Authentication</h3>
 Users can sign up or login using username and password.
 
 User can not submit campgrounds if they are not logged in.
 
-Authorization
+<h3>Authorization</h3>
 User can only modify campgrounds created by them.
-User Profile
+<h3>User Profile</h3>
 Every registered user has profile where all his submitted campgrounds are shown.
-Basic Functionality
+<h3>Basic Functionality</h3>
 Add Name, Image and Description to the campground.
 
 Create, Update, Delete the Campground.
