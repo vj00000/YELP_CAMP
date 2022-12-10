@@ -25,8 +25,9 @@ then    -   node app.js
   <li>Add Name, Image and Description to the campground.</li>
   <li>Create, Update, Delete the Campground.</li>
   <li>Add comments to campgrounds.</li>
+  <li>Used MapBox to Embed the Map the Locate the Camp on Map</li>
   <li>Flash Important messages to warn or greet the users.</li>
   <li>Responsive Web design.</li>
  </ul>
 
-<li>Used MapBox to Embed the Map the Locate the Camp on Map</li>
+
