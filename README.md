@@ -16,12 +16,10 @@ User can only modify campgrounds created by them.
 <h3>User Profile</h3>
 Every registered user has profile where all his submitted campgrounds are shown.
 <h3>Basic Functionality</h3>
-Add Name, Image and Description to the campground.
-
-Create, Update, Delete the Campground.
-
-Add comments to campgrounds.
-
-Flash Important messages to warn or greet the users.
-
-Responsive Web design.
+<ul>
+  <li>Add Name, Image and Description to the campground.</li>
+  <li>Create, Update, Delete the Campground.</li>
+  <li>Add comments to campgrounds.</li>
+  <li>Flash Important messages to warn or greet the users.</li>
+  <li>Responsive Web design.</li>
+ </ul>
