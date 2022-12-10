@@ -28,3 +28,5 @@ then    -   node app.js
   <li>Flash Important messages to warn or greet the users.</li>
   <li>Responsive Web design.</li>
  </ul>
+
+<li>Used MapBox to Embed the Map the Locate the Camp on Map</li>
